@@ -1,2 +1,2 @@
 # Seminar-Asset-Prices-and-Financial-Markets
-Seminar by csl804 and snk956
+Seminar by Isabel Vega Andersen (csl804) and Lea Lund Jeppesen (snk956)
